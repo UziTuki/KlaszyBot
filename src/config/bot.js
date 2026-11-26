@@ -68,7 +68,7 @@ export const botConfig = {
 
     // Embed colors by application status.
     statusColors: {
-      pending: "#000000",
+      pending: "#ED4245",
       approved: "##4B06CB",
       denied: "#000000",
     },
