@@ -25,7 +25,7 @@ export const botConfig = {
       {
         // Text users will see.
         name: "Esperando ordenes", 
-        type: 0,               // Activiy type number ( 0 = Playinh ).
+        type: 5,               // Activiy type number ( 0 = Playinh ).
       },
     ],
   },
