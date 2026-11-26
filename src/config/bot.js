@@ -24,7 +24,7 @@ export const botConfig = {
     activities: [
       {
         name: "Custom Status", // required by Discord API, not shown in the client
-        state: "Chambeando",     // this is what people actually see
+        state: "Esperando ordenes de mi lidel",     // this is what people actually see
         type: 4,               // Custom
       },
     ],
