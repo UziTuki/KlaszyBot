@@ -23,6 +23,7 @@ export const botConfig = {
     // 5 = Competing
     activities: [
       {
+        // Text users will see
         state: "Esperando ordenes",     // this is what people actually see
         type: 3,               // Custom
       },
